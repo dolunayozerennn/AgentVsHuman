@@ -1,2 +1,3 @@
 # AgentVsHuman
-Agent Vs Human Visual Story
+
+Bu sayfa taşındı. Güncel adres: https://antigravity-egitim.netlify.app/agentvshuman
